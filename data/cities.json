@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "id": "6c48",
+      "cityName": "Sidi Errabia",
+      "country": "Algeria",
+      "date": "2024-08-05T14:26:50.497Z",
+      "emoji": "🇩🇿",
+      "notes": "Wow",
+      "position": {
+        "lat": "36.29741818650811",
+        "lng": "3.2958984375000004"
+      }
+    },
+    {
+      "id": "fddb",
+      "cityName": "Artesa de Segre",
+      "country": "Spain",
+      "date": "2024-08-05T16:05:10.792Z",
+      "emoji": "🇪🇸",
+      "notes": "",
+      "position": {
+        "lat": "41.95131994679697",
+        "lng": "1.0766601562500002"
+      }
+    }
+  ]
+}
